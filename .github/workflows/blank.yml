@@ -1,6 +1,6 @@
 name: SGSI_Build
 
-on:
+on: 
   watch:
     types: [started]
 
